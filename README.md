@@ -1,2 +1,2 @@
-# Cars-Price-Prediction-
+# Cars-Price-Prediction
 Car Price Prediciton of used cars
